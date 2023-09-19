@@ -1,2 +1,1 @@
-# mysergeyssite
-Моя веб-страничка
+# sergeys
